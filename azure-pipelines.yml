@@ -1,4 +1,4 @@
-# Build ASP.NET Core project using Azure Pipelines
+# Build ASP.NET Core project using Azure Pipelines on 2018/10/24
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=vsts
 
 pool:
